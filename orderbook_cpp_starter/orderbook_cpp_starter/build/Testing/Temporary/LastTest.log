@@ -1,0 +1,19 @@
+Start testing: Nov 07 20:08 India Standard Time
+----------------------------------------------------------
+1/1 Testing: orderbook_tests
+1/1 Test: orderbook_tests
+Command: "C:/Users/SWARA/Downloads/orderbook_cpp_starter/orderbook_cpp_starter/build/orderbook_tests.exe"
+Directory: C:/Users/SWARA/Downloads/orderbook_cpp_starter/orderbook_cpp_starter/build
+"orderbook_tests" start time: Nov 07 20:08 India Standard Time
+Output:
+----------------------------------------------------------
+All order book tests passed.
+<end of output>
+Test time =   0.05 sec
+----------------------------------------------------------
+Test Passed.
+"orderbook_tests" end time: Nov 07 20:08 India Standard Time
+"orderbook_tests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Nov 07 20:08 India Standard Time
